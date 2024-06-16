@@ -1,0 +1,51 @@
+h3{
+    margin-top: 15px;
+    margin-left: 50px;
+    font-family:  "Inconsolata", monospace;
+}
+ 
+ img{
+     width: 500px;
+     margin-top: 50px;
+     margin-left: 20px;
+
+ }
+ 
+ div{
+    display: inline-block;
+    font-family:  "Space Mono", monospace;
+    font-size: large;
+    margin-left: 100px;
+    margin-top: 10px;
+    vertical-align: middle;
+
+
+ }
+ button{
+    background-color: rgb(77, 69, 69);
+    color: white;
+    border: none;
+    padding: 10px;
+    font-size: 10px !important;
+    margin-top: 25px;
+   
+
+ }
+ footer{
+    text-align: center;
+    margin-top: 80px;
+    font-size: 10px ;
+ }
+
+ h1{
+    font-size: 40px;
+ }
+ p{
+    font-size: 15px;
+    margin-top: 20px;
+ }
+ a{
+    color: gray;
+ }
+
+ 
